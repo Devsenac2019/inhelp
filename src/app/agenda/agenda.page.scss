@@ -1,0 +1,71 @@
+ion-head{
+    font-size: large;
+}
+ion-content{
+    --ion-background-color:#FF914D;
+}
+.div1{
+    margin-top: 30px;
+    border-radius: 10%;
+    margin-left: 25%;
+    background-color: white;
+    height:220px;
+    width: 490px;
+}
+.diasselecionados{  
+    font-size: large;
+    font-style: bold;
+    float: bottom;
+    margin-bottom: 5px;
+    width: 100%;
+    height: 30px;
+    border-color: black;
+    border-style: dashed;
+    background-color: #FFF06F;
+    border-radius: 20%;
+}
+.dias{  
+    font-size: large;
+    font-style: bold;
+    float: bottom;
+    margin-bottom: 5px;
+    width: 100%;
+    height: 30px;
+    background-color: #FFF06F;
+    border-radius: 20%;
+}
+.diasnulo{
+    float: bottom;
+    margin-bottom: 5px;
+    width: 100%;
+    height: 30px;
+    border-radius: 20%;
+    background-color: #FF914D;
+}
+ion-card{
+    font-size: large;
+    border-color: blue;
+    --ion-background-color: #FF914D;
+    height: 198px;
+    width: 50px;
+    float: left;
+    text-align: center;    
+}
+ion-head{
+    background-color: #FFF06F;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal; 
+}
+.cardbottom{
+    text-align: center;
+    font-size: 2.0rem;
+    font-style: italic;
+    margin-top: 15px;
+    width: 100%;
+    height: 10%;
+    float: bottom;
+    background-color: #FFF06F;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
